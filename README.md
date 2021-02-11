@@ -12,4 +12,4 @@ I am a business analytics major learing the basics of GitHub.
 *Getting familiar with the basics of how GitHub works*
 
 ## Links
-I don't know what else to add so I have linked Aaron Rodgers highlights [here]. (https://www.youtube.com/watch?v=Q35kQbgxui4&ab_channel=NFL)
+I don't know what else to add so I have linked Aaron Rodgers highlights [here].(https://www.youtube.com/watch?v=Q35kQbgxui4&ab_channel=NFL)
