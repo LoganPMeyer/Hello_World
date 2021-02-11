@@ -9,7 +9,7 @@ I am a business analytics major learing the basics of GitHub.
 
 
 ## 1st GitHub Assignment 
-**this is my first time on GitHub**
+**This is my first time on GitHub**
 
 ## Description
 *Getting familiar with the basics of how GitHub works*
