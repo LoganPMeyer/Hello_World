@@ -1,7 +1,7 @@
 # Hello_World
 I am a business analytics major learing the basics of GitHub.
 
-#Table of Contents
+##Table of Contents
 
 - [1st GitHub Assignment](#1st-GitHub-Assignment)
 - [Description](#Description)
